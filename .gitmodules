@@ -1,0 +1,3 @@
+[submodule "raincouver"]
+	path = raincouver
+	url = https://github.com/liao02x/raincouver.git
